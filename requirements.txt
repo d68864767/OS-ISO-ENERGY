@@ -1,0 +1,33 @@
+# requirements.txt
+
+# Web scraping and request handling
+requests==2.25.1
+beautifulsoup4==4.9.3
+selenium==3.141.0
+
+# Operating System interaction
+os==0.1.5
+
+# File and system utilities
+shutil==1.7.0
+subprocess32==3.5.4
+
+# ISO creation
+pypxeboot==0.0.2
+genisoimage==1.1.11
+
+# Data handling and analysis
+pandas==1.2.4
+numpy==1.20.2
+
+# API interaction
+requests_oauthlib==1.3.0
+
+# Python wrapper for various APIs
+pyowm==3.2.0  # for Climate Data APIs
+twilio==6.59.0  # for Telecommunication Data Integration
+stripe==2.60.0  # for Payment Gateway Integration
+coinbase==2.1.0  # for Cryptocurrency and Blockchain
+googlemaps==4.4.5  # for Mapping APIs
+spotipy==2.18.0  # for Mental Health Support APIs
+pyzomato==1.2.6  # for Urban Farming Management APIs
